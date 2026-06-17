@@ -66,4 +66,4 @@ python athena_voice_v3.py
 
 ## 许可证
 
-MIT
+[CC BY-NC-ND 4.0](LICENSE) — 可分享，禁止商用，禁止二次修改分发。
