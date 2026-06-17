@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境（不要把 venv 上传到 GitHub！）
+venv/
+
+# API 密钥（绝对不要上传！）
+# 如果文件里硬编码了密钥，改为从 .env 读取
+.env
+
+# 临时文件
+*.mp3
+*.wav
+*.log
+temp/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
