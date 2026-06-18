@@ -18,6 +18,6 @@ if defined DEEPSEEK_KEY (
 
 :: 激活虚拟环境并启动
 call D:\athena-project\venv\Scripts\activate.bat
-python D:\athena-project\athena_voice_v3.py
+python D:\athena-project\athena_voice_v4.py
 
 pause
